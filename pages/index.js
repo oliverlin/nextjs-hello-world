@@ -4,7 +4,7 @@ const Index = () => (
     Hello World.{' '}
     <Link href="/about">
       <a>About</a>
-      say hi
+      say hi btn
     </Link>
   </div>
 )
